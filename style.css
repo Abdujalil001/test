@@ -1,0 +1,39 @@
+.title{
+    text-align: center;
+    background-color: aqua;
+    border: radius 20px; 
+}
+
+
+.title span{
+    color: yellow;
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 10px;
+}
+
+
+.img-box{
+    text-align: center;
+}
+
+
+.text-box{
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+
+.text-box span{
+    color: red  ;
+}
+
+
+.box{
+    background-color: black;
+    height: 460px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
